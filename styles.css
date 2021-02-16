@@ -60,9 +60,14 @@ body {
 }
 
 .price {
-    font-weight: 500;
+    font-weight: 600;
+    margin: 0 0 0 auto;
 }
 
 .introduction {
     font-size: 16px;
+}
+
+.product-img {
+    width: 100%;
 }
