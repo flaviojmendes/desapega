@@ -71,3 +71,7 @@ body {
 .product-img {
     width: 100%;
 }
+
+.collapsible-body {
+    background-color: #FFFFFF;
+}
